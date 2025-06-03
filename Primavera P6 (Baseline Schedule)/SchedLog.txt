@@ -1,0 +1,216 @@
+Scheduling/Leveling Report - 2025-05-14 09:58:03 - PM.exe
+=========================================================
+
+	Default Project..................................................Type A3
+
+	Projects: 
+		Type A3..........................................................Construction of Duplex Villas Type A3 of 320 Meter Square
+
+Scheduling/Leveling Settings:
+-----------------------------
+	General
+	-------
+	Scheduling ......................................................Yes
+	Leveling ........................................................No
+	Ignore relationships to and from other projects .................No
+	Make open-ended activities critical .............................No
+	Use Expected Finish Dates .......................................Yes
+	Schedule automatically when a change affects dates ..............Yes
+	Level resources during scheduling ...............................No
+	Recalculate assignment costs after scheduling ...................No
+	When scheduling progressed activities use .......................Retained Logic
+	Calculate start-to-start lag from ...............................Early Start
+	Define critical activities as Total Float less than or equal to .0
+	Compute Total Float As ..........................................Finish Float
+	Calculate float based on finish date of .........................Each project
+	Calendar for scheduling Relationship Lag ........................Predecessor Activity Calendar
+
+	Advanced
+	--------
+	Calculate multiple float paths...................................No
+
+Statistics:
+-----------
+	# Projects.......................................................1
+	# Activities.....................................................239
+	# Not Started....................................................239
+	# In Progress....................................................0
+	# Completed......................................................0
+	# Relationships..................................................355
+	# Activities with Constraint.....................................43
+		Project:	Type A3	Activity:	EN-1340-ER	Receive Structural Works IFCs
+		Project:	Type A3	Activity:	EN-1350-ER	Receive Architectural Works IFCs
+		Project:	Type A3	Activity:	EN-1360-ER	Receive Electrical Works IFCs
+		Project:	Type A3	Activity:	EN-1370-ER	Receive Plumbing Works IFCs
+		Project:	Type A3	Activity:	GR-1170-GC	Submit Performance Security & Insurances
+		Project:	Type A3	Activity:	GR-1180-GC	Submit Mobilization Plan
+		Project:	Type A3	Activity:	GR-1190-GC	Submit Organizational Chart
+		Project:	Type A3	Activity:	GR-1200-GC	Submit Planning Package
+		Project:	Type A3	Activity:	GR-1210-GC	Submit Quality Control Plan
+		Project:	Type A3	Activity:	GR-1220-GC	Submit Project Safety Plan
+		Project:	Type A3	Activity:	GR-1230-GC	Submit Statements of Work
+		Project:	Type A3	Activity:	KM-1010-GC	Finish of Unit 01
+		Project:	Type A3	Activity:	KM-1130-GC	Project Finish
+		Project:	Type A3	Activity:	PR-2440-H-GC	Issue PO of Anti-Termite Chemical
+		Project:	Type A3	Activity:	PR-2450-H-GC	Issue PO of Concrete Mix Design (M5)
+		Project:	Type A3	Activity:	PR-2460-H-GC	Issue PO of Concrete Mix Design (M10)
+		Project:	Type A3	Activity:	PR-2470-H-GC	Issue PO of Concrete Mix Design (M20)
+		Project:	Type A3	Activity:	PR-2480-H-GC	Issue PO of Concrete Mix Design (M30)
+		Project:	Type A3	Activity:	PR-2490-H-GC	Issue PO of Steel Bar (Grade 60)
+		Project:	Type A3	Activity:	PR-2500-H-GC	Issue PO of Bitu Felt Membrane for Water Proofing
+		Project:	Type A3	Activity:	PR-2510-M-GC	Issue PO of Cementious Water Proofing
+		Project:	Type A3	Activity:	PR-2520-H-GC	Issue PO of Concrete Blocks
+		Project:	Type A3	Activity:	PR-2530-M-GC	Issue PO of Sand for Plaster
+		Project:	Type A3	Activity:	PR-2540-H-MP	Issue PO of PVC Conduits 
+		Project:	Type A3	Activity:	PR-2550-M-MP	Issue PO of DBs & Back Boxes
+		Project:	Type A3	Activity:	PR-2560-M-MP	Issue PO of PPR Pipes for Cold & Hot Water System
+		Project:	Type A3	Activity:	PR-2570-M-MP	Issue PO of GI Pipes for Gas Supply System
+		Project:	Type A3	Activity:	PR-2580-H-MP	Issue PO of UPVC Pipes for Soil, Waste & Vent Piping
+		Project:	Type A3	Activity:	PR-2590-H-GC	Deliver Anti-Termite Chemical
+		Project:	Type A3	Activity:	PR-2600-H-GC	Deliver Concrete (M5)
+		Project:	Type A3	Activity:	PR-2610-H-GC	Deliver Concrete (M10)
+		Project:	Type A3	Activity:	PR-2620-H-GC	Deliver Concrete (M20)
+		Project:	Type A3	Activity:	PR-2630-H-GC	Deliver Concrete (M30)
+		Project:	Type A3	Activity:	PR-2640-H-GC	Deliver Steel Bar (Grade 60)
+		Project:	Type A3	Activity:	PR-2650-H-GC	Deliver Bitu Felt Membrane for Water Proofing
+		Project:	Type A3	Activity:	PR-2660-M-GC	Deliver Cementious Water Proofing
+		Project:	Type A3	Activity:	PR-2670-H-GC	Deliver Concrete Blocks
+		Project:	Type A3	Activity:	PR-2680-M-GC	Deliver Sand for Plaster
+		Project:	Type A3	Activity:	PR-2690-H-MP	Deliver PVC Conduits 
+		Project:	Type A3	Activity:	PR-2700-M-MP	Deliver DBs & Back Boxes
+		Project:	Type A3	Activity:	PR-2710-M-MP	Deliver PPR Pipes for Cold & Hot Water System
+		Project:	Type A3	Activity:	PR-2720-M-MP	Deliver GI Pipes for Gas Supply System
+		Project:	Type A3	Activity:	PR-2730-H-MP	Deliver UPVC Pipes for Soil, Waste & Vent Piping
+
+Errors:
+-------
+Warnings:
+---------
+	Activities without predecessors..................................1
+		Project:	Type A3	Activity:	KM-1000-GC	Project Start
+
+	Activities without successors....................................1
+		Project:	Type A3	Activity:	KM-1130-GC	Project Finish
+
+	Out-of-sequence activities.......................................0
+
+	Activities with Actual Dates > Data Date.........................0
+
+	Milestone Activities with invalid relationships..................0
+
+	Finish milestone and predecessors have different calendars.......0
+
+Scheduling/Leveling Results:
+----------------------------
+	# Projects Scheduled/Leveled.....................................1
+	# Activities Scheduled/Leveled...................................239
+	# Relationships with other projects..............................0
+	Data Date........................................................01-Mar-25
+	Earliest Early Start Date........................................01-Mar-25
+	Latest Early Finish Date.........................................19-Nov-25
+Exceptions:
+-----------
+	Critical Activities..............................................96
+		Project:	Type A3	Activity:	CL-3730-GC	Start Punch List Process - Structure & Architecture
+		Project:	Type A3	Activity:	CL-3740-GC	Submit Hand Over/Take Over Request
+		Project:	Type A3	Activity:	CL-3750-GC	Demobilization
+		Project:	Type A3	Activity:	EN-1340-ER	Receive Structural Works IFCs
+		Project:	Type A3	Activity:	EN-1350-ER	Receive Architectural Works IFCs
+		Project:	Type A3	Activity:	EN-1360-ER	Receive Electrical Works IFCs
+		Project:	Type A3	Activity:	EN-1370-ER	Receive Plumbing Works IFCs
+		Project:	Type A3	Activity:	GR-1140-GC	Sign Letter of Acceptance (LOA)
+		Project:	Type A3	Activity:	GR-1150-GC	Sign the Contract
+		Project:	Type A3	Activity:	GR-1160-ER	Receive Notice to Commence
+		Project:	Type A3	Activity:	GR-1170-GC	Submit Performance Security & Insurances
+		Project:	Type A3	Activity:	GR-1180-GC	Submit Mobilization Plan
+		Project:	Type A3	Activity:	GR-1190-GC	Submit Organizational Chart
+		Project:	Type A3	Activity:	GR-1200-GC	Submit Planning Package
+		Project:	Type A3	Activity:	GR-1210-GC	Submit Quality Control Plan
+		Project:	Type A3	Activity:	GR-1220-GC	Submit Project Safety Plan
+		Project:	Type A3	Activity:	GR-1230-GC	Submit Statements of Work
+		Project:	Type A3	Activity:	GR-1240-ER	Receive Site Possession
+		Project:	Type A3	Activity:	GR-1250-ER	Receive Source of Water from the Employer
+		Project:	Type A3	Activity:	GR-1260-ER	Receive Source of Electricity from the Employer
+		Project:	Type A3	Activity:	KM-1000-GC	Project Start
+		Project:	Type A3	Activity:	KM-1010-GC	Finish of Unit 01
+		Project:	Type A3	Activity:	KM-1130-GC	Project Finish
+		Project:	Type A3	Activity:	MB-1270-GC	Perform Site Layout
+		Project:	Type A3	Activity:	MB-1280-GC	Erect Boundaries / Fencing
+		Project:	Type A3	Activity:	MB-1290-GC	Setup Offices
+		Project:	Type A3	Activity:	MB-1310-GC	Mobilize Indirect Manpower
+		Project:	Type A3	Activity:	PR-2140-H-GC	Submit Anti-Termite Chemical
+		Project:	Type A3	Activity:	PR-2290-H-ER	Receive Approval of Anti-Termite Chemical
+		Project:	Type A3	Activity:	PR-2440-H-GC	Issue PO of Anti-Termite Chemical
+		Project:	Type A3	Activity:	PR-2450-H-GC	Issue PO of Concrete Mix Design (M5)
+		Project:	Type A3	Activity:	PR-2460-H-GC	Issue PO of Concrete Mix Design (M10)
+		Project:	Type A3	Activity:	PR-2470-H-GC	Issue PO of Concrete Mix Design (M20)
+		Project:	Type A3	Activity:	PR-2480-H-GC	Issue PO of Concrete Mix Design (M30)
+		Project:	Type A3	Activity:	PR-2490-H-GC	Issue PO of Steel Bar (Grade 60)
+		Project:	Type A3	Activity:	PR-2500-H-GC	Issue PO of Bitu Felt Membrane for Water Proofing
+		Project:	Type A3	Activity:	PR-2520-H-GC	Issue PO of Concrete Blocks
+		Project:	Type A3	Activity:	PR-2540-H-MP	Issue PO of PVC Conduits 
+		Project:	Type A3	Activity:	PR-2580-H-MP	Issue PO of UPVC Pipes for Soil, Waste & Vent Piping
+		Project:	Type A3	Activity:	PR-2590-H-GC	Deliver Anti-Termite Chemical
+		Project:	Type A3	Activity:	PR-2600-H-GC	Deliver Concrete (M5)
+		Project:	Type A3	Activity:	PR-2610-H-GC	Deliver Concrete (M10)
+		Project:	Type A3	Activity:	PR-2620-H-GC	Deliver Concrete (M20)
+		Project:	Type A3	Activity:	PR-2630-H-GC	Deliver Concrete (M30)
+		Project:	Type A3	Activity:	PR-2640-H-GC	Deliver Steel Bar (Grade 60)
+		Project:	Type A3	Activity:	PR-2650-H-GC	Deliver Bitu Felt Membrane for Water Proofing
+		Project:	Type A3	Activity:	PR-2670-H-GC	Deliver Concrete Blocks
+		Project:	Type A3	Activity:	PR-2690-H-MP	Deliver PVC Conduits 
+		Project:	Type A3	Activity:	PR-2730-H-MP	Deliver UPVC Pipes for Soil, Waste & Vent Piping
+		Project:	Type A3	Activity:	U01-EX-2760-31-GC	Spray Anti-Termite Chemical - Foundations
+		Project:	Type A3	Activity:	U01-EX-2770-03-GC	Pour PCC First Layer (1:4:8) - Foundations
+		Project:	Type A3	Activity:	U01-EX-2780-07-GC	Apply Bitu Felt Membrane - Foundations
+		Project:	Type A3	Activity:	U01-EX-2790-03-GC	Pour PCC Second Layer (1:3:6) - Foundations
+		Project:	Type A3	Activity:	U01-EX-2800-03-GC	Fix Steel of Raft - Foundations
+		Project:	Type A3	Activity:	U01-EX-2810-03-GC	Set Formwork for Raft - Foundations
+		Project:	Type A3	Activity:	U01-EX-2820-03-GC	Pour Concrete of Raft - Foundations
+		Project:	Type A3	Activity:	U01-EX-2830-03-GC	Fix Steel of Columns up to Plinth - Foundations
+		Project:	Type A3	Activity:	U01-EX-2840-03-GC	Set Formwork for Columns upto Plinth - Foundations
+		Project:	Type A3	Activity:	U01-EX-2850-03-GC	Pour Concrete of Columns upto Plinth - Foundations
+		Project:	Type A3	Activity:	U01-EX-2860-04-GC	Lay Blockwork upto SOG / under Plinth Beams - Foundations
+		Project:	Type A3	Activity:	U01-EX-2870-03-GC	Fix Steel of Plinth Beams - Foundations
+		Project:	Type A3	Activity:	U01-EX-2880-03-GC	Set Formwork for Plinth Beams - Foundations
+		Project:	Type A3	Activity:	U01-EX-2890-03-GC	Pour Concrete of Plinth Beams - Foundations
+		Project:	Type A3	Activity:	U01-EX-2900-31-GC	Backfill & Compact under SOG - Foundations
+		Project:	Type A3	Activity:	U01-EX-2910-03-GC	Fix Steel of SOG including MEP Conduits - Foundations
+		Project:	Type A3	Activity:	U01-EX-2920-03-GC	Set Formwork for SOG - Foundations
+		Project:	Type A3	Activity:	U01-EX-2930-03-GC	Pour Concrete of SOG - Foundations
+		Project:	Type A3	Activity:	U01-EX-2940-03-GC	Fix Steel of Columns - Ground Floor
+		Project:	Type A3	Activity:	U01-EX-2950-03-GC	Set Formwork for Columns - Ground Floor
+		Project:	Type A3	Activity:	U01-EX-2960-03-GC	Pour Concrete of Columns - Ground Floor
+		Project:	Type A3	Activity:	U01-EX-2970-03-GC	Set Formwork of Slab including Stairs - Ground Floor
+		Project:	Type A3	Activity:	U01-EX-2980-03-GC	Fix Steel of Slab & Stairs including MEP Conduits - Ground Floor
+		Project:	Type A3	Activity:	U01-EX-2990-03-GC	Pour Concrete of Slab - Ground Floor
+		Project:	Type A3	Activity:	U01-EX-3080-03-GC	Fix Steel of Columns - First Floor
+		Project:	Type A3	Activity:	U01-EX-3090-03-GC	Set Formwork for Columns - First Floor
+		Project:	Type A3	Activity:	U01-EX-3100-03-GC	Pour Concrete of Columns - First Floor
+		Project:	Type A3	Activity:	U01-EX-3110-03-GC	Set Formwork of Slab including Stairs - First Floor
+		Project:	Type A3	Activity:	U01-EX-3120-03-GC	Fix Steel of Slab & Stairs including MEP Conduits - First Floor
+		Project:	Type A3	Activity:	U01-EX-3130-03-GC	Pour Concrete of Slab - First Floor
+		Project:	Type A3	Activity:	U01-EX-3150-04-GC	Lay Blockwork - First Floor
+		Project:	Type A3	Activity:	U01-EX-3160-09-GC	Plaster Ceiling & Walls - First Floor
+		Project:	Type A3	Activity:	U01-EX-3190-22-MP	Install PPR Piping - First Floor
+		Project:	Type A3	Activity:	U01-EX-3200-22-MP	Install GI Piping - First Floor
+		Project:	Type A3	Activity:	U01-EX-3210-22-MP	Install UPVC Piping - First Floor
+		Project:	Type A3	Activity:	U01-EX-3330-09-GC	Plaster Ceiling & Walls - Mumty Floor
+		Project:	Type A3	Activity:	U01-EX-3350-22-MP	Install PPR Piping - Mumty Floor
+		Project:	Type A3	Activity:	U01-EX-3360-22-MP	Install GI Piping - Mumty Floor
+		Project:	Type A3	Activity:	U01-EX-3370-22-MP	Install UPVC Piping - Mumty Floor
+		Project:	Type A3	Activity:	U01-EX-3510-09-GC	Plaster Side Elevation 1 - External
+		Project:	Type A3	Activity:	U01-EX-3520-09-GC	Plaster Side Elevation 2 - External
+		Project:	Type A3	Activity:	U01-EX-3530-09-GC	Plaster Back Elevation - External
+		Project:	Type A3	Activity:	U01-EX-3540-09-GC	Plaster Front Elevation - External
+		Project:	Type A3	Activity:	U01-EX-3560-22-MP	Install PPR Piping - External
+		Project:	Type A3	Activity:	U01-EX-3570-22-MP	Install GI Piping - External
+		Project:	Type A3	Activity:	U01-EX-3580-22-MP	Install UPVC Piping - External
+		Project:	Type A3	Activity:	U01-TC-3710-22-MP	Test Plumbing Works
+
+	Activities with unsatisfied constraints..........................0
+
+	Activities with unsatisfied relationships........................0
+
+	Activities with external dates...................................0
+
